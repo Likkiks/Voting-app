@@ -39,4 +39,5 @@ Admin Candidate Management:
     /candidates: POST - Create a new candidate.
     /candidates/:candidateId - PUT - Update an existing candidate
     /candidates/:candidateId : Delete - Delete a candidate from the list 
+    
 
